@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/analytics.duckdb
+reports/output/
+*.egg-info/
+.env
