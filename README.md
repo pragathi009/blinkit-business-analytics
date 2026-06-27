@@ -3,8 +3,10 @@
 End-to-end data analytics project on Blinkit's grocery delivery business — from raw data cleaning to SQL analysis to interactive dashboards.
 
  ## Live Dashboard
-👉 
-##  Project Overview
+ 
+👉  https://blinkit-business-analytics.onrender.com
+
+## Project Overview
 
 This project performs a full business analysis on **Blinkit** — India's leading quick-commerce grocery platform. The goal is to uncover actionable insights around sales performance, outlet trends, product categories, and customer ratings using a structured analytics pipeline.
 
