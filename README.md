@@ -1,10 +1,4 @@
-# 🛒 Blinkit Business Analytics
-
-End-to-end data analytics project on Blinkit's grocery delivery business — from raw data cleaning to SQL analysis to interactive dashboards.
-
- ## Live Dashboard
- 
-👉  https://blinkit-business-analytics.onrender.com
+## Blinkit Business Analytics
 
 ## Project Overview
 
